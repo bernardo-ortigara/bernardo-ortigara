@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Bernardo Ortigara
+# Bernardo Ortigara
 
 **`Full Stack Developer`**
 
@@ -23,7 +23,7 @@ I'm Bernardo Ortigara, a developer working with JavaScript, Python, and C, and a
 
 ---
 
-### 🤖 Languages & Technologies
+### Languages & Technologies
 
 <img 
     align="left" 
@@ -103,7 +103,7 @@ I'm Bernardo Ortigara, a developer working with JavaScript, Python, and C, and a
     title="Express"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+    src="https://cdn.simpleicons.org/express/FFFFFF" 
 />
 <img 
     align="left" 
@@ -129,19 +129,11 @@ I'm Bernardo Ortigara, a developer working with JavaScript, Python, and C, and a
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
 
 <br/>
 <br/>
 
-### 📊 Stats
+### Stats
 
 <p>
   <img 
@@ -164,6 +156,6 @@ I'm Bernardo Ortigara, a developer working with JavaScript, Python, and C, and a
 <br/>
 <br/>
 
-### 🔭 Looking for
+### Looking for
 
 An internship in software development, to bring what I've built on my own into a team.
