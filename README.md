@@ -2,10 +2,10 @@
 
 **`Full Stack Developer`**
 
-I'm Bernardo Ortigara, a developer working with JavaScript, Python, and C, and a Computer Science student at the University of Caxias do Sul (UCS). Through [Vetta Sites](https://vettasites.vercel.app/), my own company, I build conversion-focused websites and landing pages for local businesses.
+I'm Bernardo Ortigara, a developer working with JavaScript, Python, and C, and a Computer Science student at the University of Caxias do Sul (UCS). Through [Vetta Sites](https://vettasites.com.br/), my own company, I build conversion-focused websites and landing pages for local businesses.
 
 <p align="left">
-    <a href="https://vettasites.vercel.app">
+    <a href="https://vettasites.com.br">
         <img 
             alt="Vetta Sites" 
             title="Check out Vetta Sites" 
